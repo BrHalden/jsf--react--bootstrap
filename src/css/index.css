@@ -7,3 +7,6 @@ html {
 img {
   max-width: 100%;
 }
+#root {
+  background-color: blue;
+}
